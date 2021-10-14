@@ -1,10 +1,10 @@
-name: .NET 5 CI
+name: Music Library CI
 on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: .NET 5 Application
+    name: Music Library
     steps:
       - uses: actions/checkout@v2
       - name: Setup dotnet
