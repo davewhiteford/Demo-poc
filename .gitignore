@@ -555,4 +555,6 @@ e2e/*.map
 Web/ClientApp/src/TESTS*.xml
 # API logs
 Web/Logs/
-SwordNetCore.db
+
+#sqlLite database
+MusicLibrary.db
