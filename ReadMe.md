@@ -2,6 +2,8 @@
 
 # Welcome
 
+![Music Library CI](https://github.com/davewhiteford/Demo-Interview/actions/workflows/CI.yml/badge.svg)
+
 It has hitherto been accepted that a unique facet of the operational situation is demonstrably significant. On the other hand the logical mobility underlines the essential paradigm of the thematic reconstruction of set of constraints.
 
 # Instructions
