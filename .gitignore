@@ -558,3 +558,4 @@ Web/Logs/
 
 #sqlLite database
 MusicLibrary.db
+MusicLibrary/MusicLibrary.db
